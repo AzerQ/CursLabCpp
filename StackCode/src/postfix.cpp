@@ -20,7 +20,7 @@ int get_precedence(char op)
 
 std::string infix_to_postfix(std::string infix)
 {
-    std::cout << infix;
+    //std::cout << infix;
     CustomStack::Stack<char> stack;
     std::string postfix;
 

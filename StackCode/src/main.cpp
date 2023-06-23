@@ -44,9 +44,8 @@ void TestPostFix()
         std::string infix;
         std::cout << "Enter an infix expression: ";
         std::cin >> infix;
-        std::cout << infix << '\n';
+        //std::cout << infix << '\n';
         std::string postfix = infix_to_postfix(infix);
-        ;
         std::cout << "Postfix expression: " << postfix << '\n';
     }
     catch (const std::exception &e)
