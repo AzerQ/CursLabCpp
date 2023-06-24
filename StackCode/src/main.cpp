@@ -53,22 +53,23 @@ void TestPostFix()
         std::cout << "Ошибка: " << e.what() << std::endl;
     }
 }
-int main()
-{
+int main() {
     int userChoise = 0;
-    cout << "Choise mode \n 1) TestStack \n 2) TestPostFix \nYou choise: ";
-    cin >> userChoise;
-    switch (userChoise)
-    {
-    case 1:
-        TestStack();
-        break;
-    case 2:
-        TestPostFix();
-        break;
-    default:
-        break;
+    while (userChoise != 3) {
+        cout << "Choise mode \n 1) TestStack \n 2) TestPostFix \n 3) Exit \nYou choise: ";
+        cin >> userChoise;
+        switch (userChoise) {
+            case 1:
+                TestStack();
+                break;
+            case 2:
+                TestPostFix();
+                break;
+            default:
+                break;
+        }
     }
-    cin.get();
-    return 0;
+        cin.get();
+        return 0;
+
 }
