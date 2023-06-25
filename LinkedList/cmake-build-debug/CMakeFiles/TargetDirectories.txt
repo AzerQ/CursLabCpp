@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/GitHub/CursLabCpp/LinkedList/cmake-build-debug/CMakeFiles/LinkedList.dir
+C:/Users/Lenovo/Documents/GitHub/CursLabCpp/LinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/GitHub/CursLabCpp/LinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir

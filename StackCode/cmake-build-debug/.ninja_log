@@ -1,0 +1,5 @@
+# ninja log v5
+4	205	7093960070348851	build.ninja	e3f26e0e03938e80
+6	845	7093947541477866	CMakeFiles/StackCode.dir/src/postfix.cpp.obj	61d5d784aaaf7fc
+0	1245	7093947545467005	CMakeFiles/StackCode.dir/src/main.cpp.obj	3fb0fb3f26590877
+1246	1404	7093947547014316	StackCode.exe	b4e33155d6654fa2
