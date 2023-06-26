@@ -8,4 +8,4 @@ include_directories(src/include)
 add_executable(LinkedList
         src/include/DoublyLinkedList.h
         src/include/Node.h
-        src/main.cpp)
+        src/main.cpp src/include/SetColor.h)
