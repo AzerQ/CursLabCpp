@@ -1,3 +1,24 @@
 # ninja log v5
-1	693	7093945372119677	CMakeFiles/LinkedList.dir/src/main.cpp.obj	f07a833daf04917d
-696	888	7093945374028271	LinkedList.exe	18b3ed5b443e1445
+11	329	7094048424409790	build.ninja	7e9ff31ce38d2268
+1	692	7094048431776585	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+694	869	7094048433485161	LinkedList.exe	18b3ed5b443e1445
+5	651	7094052879066661	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+652	791	7094052880423028	LinkedList.exe	18b3ed5b443e1445
+7	699	7094053313226611	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+700	859	7094053314772571	LinkedList.exe	18b3ed5b443e1445
+5	1046	7094570926972130	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+1046	1445	7094570930921451	LinkedList.exe	18b3ed5b443e1445
+5	691	7094576847275115	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+691	841	7094576848736356	LinkedList.exe	18b3ed5b443e1445
+5	651	7094580016618885	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+651	800	7094580018066973	LinkedList.exe	18b3ed5b443e1445
+5	650	7094580975145165	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+650	795	7094580976557325	LinkedList.exe	18b3ed5b443e1445
+5	652	7094581250244092	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+652	797	7094581251661157	LinkedList.exe	18b3ed5b443e1445
+5	711	7094581527708202	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+712	877	7094581529328534	LinkedList.exe	18b3ed5b443e1445
+5	693	7094581994493566	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+694	842	7094581995930626	LinkedList.exe	18b3ed5b443e1445
+5	655	7094582766019399	CMakeFiles/LinkedList.dir/src/main.cpp.obj	24fb5d85b76906c0
+655	802	7094582767436529	LinkedList.exe	18b3ed5b443e1445
