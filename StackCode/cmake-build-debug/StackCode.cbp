@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="StackCode"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StackCode">
+				<Option output="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/StackCode.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/src/include"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 StackCode"/>
+					<CompileFile command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StackCode/fast">
+				<Option output="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/StackCode.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/src/include"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="E:/Programs/CLion 2023.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 StackCode/fast"/>
+					<CompileFile command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Programs/CLion 2023.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/src/include/postfix.h">
+			<Option target="StackCode"/>
+		</Unit>
+		<Unit filename="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/src/include/stack.h">
+			<Option target="StackCode"/>
+		</Unit>
+		<Unit filename="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/src/main.cpp">
+			<Option target="StackCode"/>
+		</Unit>
+		<Unit filename="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/src/postfix.cpp">
+			<Option target="StackCode"/>
+		</Unit>
+		<Unit filename="C:/Users/AzerQ/Documents/GitHub/CursLabCpp/StackCode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

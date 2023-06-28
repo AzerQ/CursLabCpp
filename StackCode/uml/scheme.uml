@@ -1,0 +1,35 @@
+@startuml
+
+class Stack {
+  - capacity: int
+  - top: int
+  - elements: T[]
+  + Stack(capacity: int)
+  + push(data: T): void
+  + pop(): T
+  + peek(): T
+  + isEmpty(): bool
+  + isFull(): bool
+}
+
+class PrefixToPostfixConverter {
+  + convert(prefixExpression: string): string
+}
+
+Stack --> "*" : contains
+
+class "*" {
+  - capacity: int
+  - top: int
+  - elements: string[]
+  + "*" (capacity: int)
+  + push(data: string): void
+  + pop(): string
+  + peek(): string
+  + isEmpty(): bool
+  + isFull(): bool
+}
+
+PrefixToPostfixConverter --> "*" : uses
+
+@enduml

@@ -1,0 +1,22 @@
+@startuml
+class Node {
+  - data: T
+  - prev: Node<T>*
+  - next: Node<T>*
+}
+
+class DoublyLinkedList {
+  - head: Node<T>*
+  - tail: Node<T>*
+  + size(): int
+  + isEmpty(): bool
+  + addToFront(data: T): void
+  + addToBack(data: T): void
+  + removeFromFront(): void
+  + removeFromBack(): void
+  + findNode(data: T): Node<T>*
+}
+
+Node --> Node
+DoublyLinkedList "1" --> "0..1" Node
+@enduml
