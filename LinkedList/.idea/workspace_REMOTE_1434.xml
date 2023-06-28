@@ -20,9 +20,6 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="4619dea3-f433-4134-ad1c-d65655f921fc" name="Changes" comment="" />
-=======
     <list default="true" id="4619dea3-f433-4134-ad1c-d65655f921fc" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/include/SetColor.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -56,7 +53,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
->>>>>>> 461f30f0b2ab10bad7af7971ba975d8b99094928
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,23 +75,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "structure.view.defaults.are.configured": "true",
-    "vue.rearranger.settings.migration": "true"
-=======
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -111,7 +90,6 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
->>>>>>> 461f30f0b2ab10bad7af7971ba975d8b99094928
   }
 }</component>
   <component name="RunManager">
@@ -134,14 +112,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687701612936</updated>
-<<<<<<< HEAD
-      <workItem from="1687701614724" duration="4544000" />
-=======
       <workItem from="1687701614724" duration="3809000" />
       <workItem from="1687798348183" duration="30000" />
       <workItem from="1687808403013" duration="149000" />
       <workItem from="1687808562967" duration="2796000" />
->>>>>>> 461f30f0b2ab10bad7af7971ba975d8b99094928
     </task>
     <servers />
   </component>

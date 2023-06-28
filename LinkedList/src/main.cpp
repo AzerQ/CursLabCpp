@@ -1,5 +1,6 @@
 #include <iostream>
 #include "include/DoublyLinkedList.h"
+#include "SetColor.h"
 #include <cstdlib> // для rand() и srand()
 #include <ctime>   // для time()
 
@@ -46,6 +47,10 @@ void testDoublyLinkedList(int N) {
 }
 
 int main() {
-    testDoublyLinkedList(30);
+    int listCapacity;
+    cout << "Enter list capacity = ";
+    cin >> listCapacity;
+    testDoublyLinkedList(listCapacity);
+    getchar();
     return 0;
 }
